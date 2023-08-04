@@ -26,7 +26,7 @@ Second, download the TurtleBot3 packages
 
 <img width="674" alt="image" src="https://github.com/Aya-Alsuliman/AI-Task-2/assets/139065454/e957f3d5-37c0-42f6-b45b-bb4a6b8432b0">
  
-Third, in the simulation sector, install the Gazebo simulation package. 
+Third, install the Gazebo simulation package. 
 
 <img width="658" alt="image" src="https://github.com/Aya-Alsuliman/AI-Task-2/assets/139065454/9caa1675-5d18-48a1-a1a5-70bc2b656ffb">
 
