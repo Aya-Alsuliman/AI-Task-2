@@ -21,5 +21,17 @@ Third, in the simulation sector, install the Gazebo simulation package.
 
 Then, install the TurtleBot3 World 
 <img width="643" alt="image" src="https://github.com/Aya-Alsuliman/AI-Task-2/assets/139065454/3496e693-838c-444c-b0df-177a74275d6a">
-Now Gazebo will open with TurtleBot3 World, but we still cannot see 2-D Gmapping 
+
+Now Gazebo will open with TurtleBot3 World, but we still cannot see 2-D Gmapping!
+To extract the SLAM mapping, we will run the SLAM Node
+<img width="579" alt="image" src="https://github.com/Aya-Alsuliman/AI-Task-2/assets/139065454/f46acdfb-79fa-41f7-a108-8a8856a7c4f7">
+
+Now, RVis will open with the TurtleBot3 World map 
+![صورة11](https://github.com/Aya-Alsuliman/AI-Task-2/assets/139065454/20f84c3b-fcf1-4648-a20e-72ded6e3ddd7)
+
+But it is obvious that a major part of the map is missing! That's because the robot didn't move around the TurtleBot3 World, so it didn't scan the map yet.
+
+To control the movement of the robot, we need to run the Teleoperation Node using the following commands
+<img width="648" alt="image" src="https://github.com/Aya-Alsuliman/AI-Task-2/assets/139065454/4cf8f4a0-9d01-4dc6-afe8-9fc153f84b80">
+
 
