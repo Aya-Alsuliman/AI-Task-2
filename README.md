@@ -68,7 +68,7 @@ Finally, to save this map we use the following command
 
 <img width="647" alt="image" src="https://github.com/Aya-Alsuliman/AI-Task-2/assets/139065454/e776ffb9-1001-4214-8eac-7cfa662bf83f">
 
-
+You can find attached the map.pgm file  
 
 
 
