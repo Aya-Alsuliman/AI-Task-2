@@ -46,6 +46,7 @@ To extract the SLAM mapping, we will run the SLAM Node
 
 
 Now, RVis will open with the TurtleBot3 World map 
+
 ![صورة11](https://github.com/Aya-Alsuliman/AI-Task-2/assets/139065454/20f84c3b-fcf1-4648-a20e-72ded6e3ddd7)
 
 
