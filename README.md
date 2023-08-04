@@ -37,7 +37,10 @@ Then, install the TurtleBot3 World
 
 
 Now Gazebo will open with TurtleBot3 World, but we still cannot see 2-D Gmapping!
+
+
 To extract the SLAM mapping, we will run the SLAM Node
+
 
 <img width="579" alt="image" src="https://github.com/Aya-Alsuliman/AI-Task-2/assets/139065454/f46acdfb-79fa-41f7-a108-8a8856a7c4f7">
 
