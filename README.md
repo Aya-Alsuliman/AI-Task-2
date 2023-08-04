@@ -34,4 +34,22 @@ But it is obvious that a major part of the map is missing! That's because the ro
 To control the movement of the robot, we need to run the Teleoperation Node using the following commands
 <img width="648" alt="image" src="https://github.com/Aya-Alsuliman/AI-Task-2/assets/139065454/4cf8f4a0-9d01-4dc6-afe8-9fc153f84b80">
 
+While we move the robot around, it will simultaneously localization and mapping as shown in the video below
+
+
+
+https://github.com/Aya-Alsuliman/AI-Task-2/assets/139065454/1eb72990-e40c-4237-85b6-cc5dfb07274c
+
+
+Finally, to save this map we use the following command
+<img width="647" alt="image" src="https://github.com/Aya-Alsuliman/AI-Task-2/assets/139065454/e776ffb9-1001-4214-8eac-7cfa662bf83f">
+
+
+
+
+
+
+
+
+
 
