@@ -1,11 +1,15 @@
 # AI-Task-2
-             Simulation SLAM Using Turtlebot3
+            SLAM Simulation Using Turtlebot3
              
 Robotic Movement is one of the most essential parts while building your robot.
-This process consists of four steps: 1-Positioning  2-Sensing 3-Mapping 4-Path
+
+This process consists of four steps: 1-Positioning  2-Sensing 3-Mapping 4-Path.
+
 To accomplish the previous steps the robot will do SLAM.
+
 SLAM: Simultaneous localization and mapping.
-For the sensing part we will use a Lidar laser scanner. 
+
+For the sensing part, we will use a Lidar laser scanner. 
 
 But before working on real, we need to build and test our progress.
 Simulation is the key.
